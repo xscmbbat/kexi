@@ -5,6 +5,5 @@
 -  Android
 -  Windows
 -  Mac OS
--  IOS    敬请期待
-
+-  Iphone/iPad
 ## <a href="https://github.com/guowaissr/kexi/wiki">常见问题解答</a>
