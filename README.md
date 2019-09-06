@@ -1,5 +1,5 @@
 ## 官方网站
--  http://www.kexi123.com
+-  http://www.quweipa.com
 
 ## 各大平台安装包下载
 -  Android
