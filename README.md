@@ -1,5 +1,5 @@
 ## 官方网站
--  http://www.quweipa.com
+-  http://www.ssrapi.xyz
 
 ## 各大平台安装包下载
 -  Android
